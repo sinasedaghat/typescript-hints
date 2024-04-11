@@ -300,7 +300,7 @@ multiGeneric<number, string>(1, "Quera");
     ```
     
 
-see all of utility types see [all-utility-types](https://github.com/sinasedaghat/typescript-hints/blob/main/files/all-utility-types.ts) file.
+see all of utility types see [all-utility-types](https://github.com/sinasedaghat/typescript-hints/blob/main/attachments/all-utility-types.ts) file.
 
 ---
 
