@@ -31,3 +31,9 @@ This repository is created to collect important points in a concise form for mem
 - Quera [College](https://quera.org/college/landpage/13017/typescript)
 - Ditty Typescript Utility Types ([part 1](https://ditty.ir/posts/typescript-utility-types-part1/J27B5) & [part 2](https://ditty.ir/posts/typescript-utility-types-part2/X8K0n))
 - Udemy [Understanding Typescript](https://www.udemy.com/course/understanding-typescript/)
+
+---
+
+> Please let me know if you find any mistakes in this document so that I can correct them as soon as possible.
+Thanks.
+>
