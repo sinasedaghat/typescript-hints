@@ -15,7 +15,7 @@ This repository is created to collect important points in a concise form for mem
     - [Export and Import Modules](https://github.com/sinasedaghat/typescript-hints/blob/main/contents/2%20Object%20oriented%20and%20its%20concepts%20in%20TypeScript%20(classes).md#export-and-import-modules)
     - [Classes and their concepts](https://github.com/sinasedaghat/typescript-hints/blob/main/contents/2%20Object%20oriented%20and%20its%20concepts%20in%20TypeScript%20(classes).md#classes-and-their-concepts)
 - [Generic Types](https://github.com/sinasedaghat/typescript-hints/blob/main/contents/3%20Generic%20Types.md)
-    - [Utility Types](https://github.com/sinasedaghat/typescript-hints/blob/main/contents/3%20Generic%20Types.md#utility-types)
+    - [Utility Types](https://github.com/sinasedaghat/typescript-hints/blob/main/contents/3%20Generic%20Types.md#generic-types)
     - [Generics Concepts](https://github.com/sinasedaghat/typescript-hints/blob/main/contents/3%20Generic%20Types.md#generics-concepts)
 
 ---
